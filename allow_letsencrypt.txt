@@ -1,4 +1,6 @@
-# 2024-07-26-10-27
+# 2024-07-26-10-33
+; https://raw.githubusercontent.com/whit3y/pfblockerlists/main/allow_letsencrypt.txt
+; Last-Modified: Fri, 26 Jul 2024 10:33:00 EST
 
 13.212.105.154
 13.212.138.22
