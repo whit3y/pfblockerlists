@@ -1,6 +1,6 @@
-# 2024-08-26-11-22
+# 2024-09-01-09-47
 ; https://raw.githubusercontent.com/whit3y/pfblockerlists/main/allow_letsencrypt.txt
-; Last-Modified: Mon, 26 Aug 2024 11:22:00 EST
+; Last-Modified: Sun, 9 Sep 2024 9:47:00 EST
 
 13.212.105.154
 13.212.138.22
@@ -39,6 +39,7 @@
 139.162.155.225
 139.59.136.184
 139.59.143.102
+141.98.11.173
 142.93.129.190
 142.93.143.8
 159.89.12.166
