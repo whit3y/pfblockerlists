@@ -1,6 +1,6 @@
-# 2025-06-25-23-05
+# 2025-06-25-23-07
 ; https://raw.githubusercontent.com/whit3y/pfblockerlists/main/allow_letsencrypt.txt
-; Last-Modified: Wed, June 25 2025 23:05:00 EST
+; Last-Modified: Wed, June 25 2025 23:07:00 EST
 
 104.197.69.115
 13.212.105.154
@@ -75,6 +75,7 @@
 13.53.234.246
 13.53.234.58
 13.53.55.101
+13.59.234.251
 13.60.169.212
 13.60.18.39
 13.60.195.65
